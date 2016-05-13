@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://panossakkos.github.io"
+url: "https://ipaotat.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -28,9 +28,9 @@ force-https: True
 # HTML Head #
 #############
 
-lang: "ZN-ch"
+lang: "ZH-CN"
 author: "ipaoTAT"
-title: "{ ipaoTAT }"
+title: "Mr.Dong's Blog"
 description: "Blog and website of ipaoTAT."
 keywords: "personal, jekyll, theme"
 favicon: "/img/favicon.ico"
@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/index-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "享受无知带来的不安，因为它们让我安心。"
   - text: "不断摆脱舒适区！"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/author.png"
 
 ##############################
 # Color the browser elements #
@@ -100,7 +100,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "ipaoTAT"
 
 syntax-highlight: True
 
@@ -138,7 +138,7 @@ email: "Dong.Xiafei@139.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "云计算菜鸟"
-author_blurb_image: "/img/timeline/default.png"
+author_blurb_image: "/img/author.png"
 
 ##################
 # Social Buttons #
