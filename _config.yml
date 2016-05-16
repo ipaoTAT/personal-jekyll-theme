@@ -30,8 +30,8 @@ force-https: True
 
 lang: "ZH-CN"
 author: "ipaoTAT"
-title: "Mr.Dong's Blog"
-description: "Blog and website of ipaoTAT."
+title: "Mr.Dong's Notebook"
+description: "Notebook of ipaoTAT."
 keywords: "personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
@@ -168,7 +168,7 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  Notes: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
